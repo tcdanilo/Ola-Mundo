@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositorio versionado
+# Olá,Mundo
+ Repositório criado durante curso de git e github do guanabara
